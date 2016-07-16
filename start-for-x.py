@@ -1,5 +1,10 @@
 from flask import Flask, request, render_template, Response, json
 from flaskext.mysql import MySQL
+import recommendation
+import os
+
+APP_ROOT = os.path.dirname(os.path.abspath(__file__))
+DATA_FOLDER = os.path.join(APP_ROOT, 'recommend_data/')
 
 mysql = MySQL()
 app = Flask(__name__)
@@ -9,6 +14,8 @@ app.config['MYSQL_DATABASE_HOST'] = 'localhost'
 app.config['MYSQL_DATABASE_USER'] = 'root'
 app.config['MYSQL_DATABASE_PASSWORD'] = ''
 app.config['MYSQL_DATABASE_DB'] = 'start_for_x'
+
+app.config['UPLOAD_FOLDER'] = DATA_FOLDER
 
 mysql.init_app(app)
 
@@ -44,7 +51,7 @@ def create_startup():
 def get_finances(name):
     if request.method == 'GET':
         tags = get_company_tags(name)
-        companies = get_finances_helper(tags)
+        companies = recommendation.Recommendation().get_recommendations(DATA_FOLDER, tags)
 
         conn = mysql.connect()
         cursor = conn.cursor()
@@ -85,7 +92,7 @@ def get_finances(name):
 def get_news(name):
     if request.method == 'GET':
         tags = get_company_tags(name)
-        companies = get_news_helper(tags)
+        companies = recommendation.Recommendation().get_recommendations(DATA_FOLDER, tags)
 
         conn = mysql.connect()
         cursor = conn.cursor()
@@ -115,7 +122,7 @@ def get_news(name):
 def get_workplace(name):
     if request.method == 'GET':
         tags = get_company_tags(name)
-        companies = get_workplace_helper(tags)
+        companies = recommendation.Recommendation().get_recommendations(DATA_FOLDER, tags)
 
         conn = mysql.connect()
         cursor = conn.cursor()
@@ -151,21 +158,6 @@ def get_company_tags(startup_name):
     tags = cursor.fetchall()
 
     return tags
-
-
-def get_finances_helper(tags):
-    print tags
-    return ['company1', 'company2', 'company3', 'start_for_x']
-
-
-def get_news_helper(tags):
-    print tags
-    return ['company1', 'company2', 'company3', 'start_for_x']
-
-
-def get_workplace_helper(tags):
-    print tags
-    return ['company1', 'company2', 'company3', 'start_for_x']
 
 
 if __name__ == '__main__':

@@ -1,0 +1,398 @@
+121nexus.html	14	Cambridge	Digital Media	Education	Analytics	Politics				
+2u.html	0	Hanover	Education	Software						
+4soils.html	14	Stanford	Education	Bridging Online and Offline	Kids	Religion				
+5min-media.html	7	New York	Education	Games	Video					
+abpathfinder-1.html	7	Overland Park	Education	Health Care Information Technology						
+academize.html	14	San Francisco	Education	Video	All Students	AngelPad Spring 2012				
+acceptd.html	7	Columbus	Digital Media	Education	College Recruiting	Performing Arts				
+accredible.html	7	London	Mountain View	Education	Advertising	Recruiting	Universities			
+aceable.html	7	Austin	Mobile	Education	Mobile Games	Technical Continuing Education				
+admission-table.html	7	Bangalore	Education	Messaging	Mobile Social	500 Startups Fall 2013				
+admitsee.html	7	San Francisco	E-Commerce	Social Media	Education	Higher Education				
+admittedly.html	7	New York City	Education	K-12 Education	College Recruiting					
+afterschool.html	7	San Francisco	Mobile	Location Based Services	University Students	College Campuses	LAUNCH 2016 Demo Pit			
+akdemia.html	14	Berlin	Big Data	K-12 Education	Techstars Berlin S15					
+albert-dot-io.html	7	Chicago	Education	K-12 Education	Education Technology					
+alchemist-accelerator.html	7	VC Firm	Incubator	Accelerator	San Francisco	Menlo Park	Enterprise Software	SaaS	Education	Services
+alchemy-learning.html	7	Boulder	SaaS	Mobile Application	Sharing Economy	Language Learning				
+allclasses.html	7	Boston	E-Commerce	Education	Marketplaces	Search				
+allovue.html	7	Baltimore	Enterprise Software	Education	Analytics	Finance Technology				
+altius-education.html	0	San Francisco	Education							
+always-prepped.html	7	Washington	 DC	Education	Big Data	Big Data Analytics	K-12 Education			
+angelscholars.html	7	San Carlos	Education	Crowdfunding	High School Students	Colleges				
+applykit.html	0	Manchester	Mobile	College Recruiting	High School Students					
+apptuto.html	7	San Francisco	Education	Big Data Analytics	Wearables	500 Startups Batch 14				
+aristotle-circle-2.html	7	New York City	Education	K-12 Education	Consulting					
+asku.html	7	Austin	University Students	Knowledge Management	College Campuses					
+astrid-francesca-walk.html	7	San Francisco	Education	Organic Food	Waste Management	Babies				
+authorbee.html	7	New York City	Education	Social Media Platforms	Publishing					
+avanoo.html	7	San Francisco	Enterprise Software	Digital Media	Education	Training	500 Startups Batch 12			
+benchprep.html	7	Chicago	Mobile	Education	Analytics	Game Mechanics				
+berecruited.html	7	San Francisco	Sports	College Recruiting	High School Students	Freemium				
+betterlesson.html	7	Cambridge	Social Media	Education	K-12 Education	Curated Web				
+betterup.html	7	San Francisco	Education	Corporate Training	Self Development					
+bgs-venture-lp.html	7	VC Firm	Toronto	SaaS	Education	Social Media Platforms	Mobile Advertising			
+binu.html	7	Sydney	Mobile	Social Media	Education	Web Browsers				
+blendspace.html	7	San Francisco	Education	K-12 Education	Productivity Software					
+bloc.html	7	San Francisco	Consumer Internet	Education						
+bookrenter.html	7	San Mateo	Education	University Students	Content Delivery	Textbooks				
+booktrack.html	7	San Francisco	Education	Technology	Entertainment	Textbooks				
+boundless.html	7	Boston	Education	University Students	Collaboration	Textbooks				
+braingenie.html	5	Boston	Education	K-12 Education						
+brainrewards.html	7	Philadelphia	Education	Social Games	Games					
+brainscape.html	7	New York City	Mobile	Education	Platforms	Quantified Self				
+branching-minds.html	7	New York City	Marketplaces	Personal Health	K-12 Education	Neuroscience				
+bravenew.html	7	San Francisco	Enterprise Software	Education	Communities	Knowledge Management				
+bridge-international-academies.html	7	Nairobi	Education							
+bridgeu.html	7	London	SaaS	Big Data Analytics	University Students	High School Students				
+brightbytes-1.html	7	San Francisco	SaaS	Education	Big Data	Analytics				
+brightwheel.html	7	San Francisco	Mobile	SaaS	Education	Edtech				
+brilliant.html	7	San Francisco	Education	Recruiting	University Students	High School Students	LAUNCH Festival 2012			
+brit-co-2.html	7	New York City	San Francisco	E-Commerce	Digital Media	Education				
+busuu.html	11	London	Education	Private Social Networking	Edtech					
+cambly.html	7	San Francisco	Education	Language Learning						
+campus-explorer.html	7	Santa Monica	Education	Universities	Colleges	High Schools				
+campusquad-2.html	7	San Carlos	Mobile	University Students	Curated Web	Universities				
+careerosity.html	7	New York City	Education	Career Management	Career Planning					
+carnegie-mellon-university-2.html	7	VC Firm	Pittsburgh	Education						
+chalkable.html	7	New York City	K-12 Education	Application Platforms	High School Students	Teachers	500 Startups Batch 4			
+chalkschools.html	7	San Francisco	Enterprise Software	SaaS	K-12 Education	Business Process Management				
+checkio.html	7	Boston	Las Vegas	Education	Social Games	Communities	Educational Games	LAUNCH 2016 Demo Pit		
+chesscademy.html	7	San Francisco	Education	K-12 Education						
+chromatik.html	7	Los Angeles	Mobile	Education	Music	Bridging Online and Offline				
+citelighter.html	7	New York City	Education	Big Data Analytics	K-12 Education	Knowledge Management				
+claco.html	7	Palo Alto	Education	K-12 Education	Colleges					
+classdojo.html	7	San Francisco	Education	Kids	Parenting					
+classkick.html	0	Chicago	K-12 Education	Higher Education						
+classowl.html	7	San Francisco	Mobile	Education	Productivity Software	Consumer 				
+clever.html	7	San Francisco	Education	Big Data	K-12 Education	Application Platforms				
+cloudacademy-1.html	7	San Francisco	Enterprise Software	Education	Cloud Computing	Recruiting	500 Startups Batch 11			
+clusterflunk.html	7	Chicago	Education	University Students	Social					
+clutch-prep.html	7	Miami	Education	University Students	Textbooks					
+co-lab-1.html	7	Incubator	San Francisco	Education	Technology	Games				
+coachup.html	5	Boston	Education	Marketplaces	Sports	Training				
+codarica.html	7	Los Angeles	Stockholm	Education	Mobile Games	Apps	Educational Games			
+codecademy.html	7	New York City	Education	Curated Web						
+codecombat.html	7	San Francisco	Education	Games	K-12 Education	Educational Games				
+codefights.html	7	San Francisco	Games	Developer Tools	Educational Games	Edutainment				
+codehs.html	7	San Francisco	Education	K-12 Education						
+codelesson.html	7	San Francisco	Education	Marketplaces	Human Resources	Corporate Training				
+codementor.html	7	Silicon Valley	Education	Marketplaces	Developer Tools	Social Recruiting				
+codespark.html	7	Pasadena	Mobile Games	K-12 Education	Educational Games	Edutainment				
+codewars.html	7	Los Angeles	Education	Developer Tools	Technical Continuing Education					
+cognifit.html	7	New York City	Health Care	Education	Health and Wellness	Pharmaceuticals				
+colingo.html	7	San Francisco	Education	Marketplaces	Video	Language Learning				
+collegebacker.html	7	San Francisco	Education	Finance Technology	Personal Finance	500 Startups Batch 14				
+collegefeed.html	7	Mountain View	Education	Recruiting	Colleges	Career Planning				
+connectedu.html	7	Boston	Education							
+cornerstone-ondemand.html	7	Santa Monica	Enterprise Software	Education	Recruiting	Career Management				
+course-hero.html	7	Redwood City	Education							
+coursehorse.html	7	New York City	E-Commerce	Consumer Internet	Education	Marketplaces				
+coventure.html	7	VC Firm	New York City	Health Care	Education	Fashion	Mobile Advertising			
+craftsy-2.html	7	Denver	E-Commerce	Digital Media	Education	Creative Industries				
+creative-destruction-lab-at-rotman.html	7	Incubator	Toronto	Education	Health and Wellness	Software	Hardware			
+creativelive.html	7	San Francisco	Education							
+crowdmark.html	7	Toronto	SaaS	Education	Crowdsourcing	Human Resources				
+ctrl-console.html	7	Boulder	Mobile	Education	Creative Industries	Human Computer Interaction				
+culturealley.html	7	India	Education	Android	Language Learning	500 Startups Batch 8				
+curios-me.html	7	San Francisco	Mobile Games	Mobile Advertising	University Students	College Campuses				
+curiosity-com-1.html	7	Chicago	Mobile	Digital Media	Education	Video Streaming				
+curiosityville-2.html	7	Baltimore	Education	Educational Games	Development Platforms	Language Learning				
+curious-hat.html	7	San Mateo	Mobile	Education	K-12 Education	Educational Games	500 Startups Fall 2012			
+curriculet.html	7	San Francisco	Mobile	E-Commerce	Education	K-12 Education				
+cybrary.html	7	Washington	 DC	Education	Cyber Security	Training	Technical Continuing Education			
+dailybreak.html	7	Boston	Social Media Marketing	Social Games	University Students	Contests				
+dailydrip.html	7	San Francisco	Birmingham	Mobile	Education	Video Streaming	Technical Continuing Education			
+datacamp.html	7	New York City	Education	Analytics						
+degreed.html	7	San Francisco	Social Media	Education	Gamification	Knowledge Management				
+descomplica.html	7	Rio De Janeiro	Education	Video	K-12 Education					
+designlab.html	7	San Francisco	Education	Design	Product Design					
+desmos.html	7	San Francisco	Education	Software						
+digital-currency-council-1.html	7	New York City	Education	Financial Services	Bitcoin	Law Enforcement	500 Startups Batch 13			
+diyco.html	7	San Francisco	K-12 Education	Kids	Edtech	Mentorship				
+dreambox-learning.html	7	Bellevue	Education	Software	Education Technology					
+duolingo.html	7	Pittsburgh	Mobile Application	Language Learning	Certification Test					
+edify-3.html	7	Boulder	Mobile	Education	Music	Games				
+edmodo.html	7	San Mateo	Social Media	All Students	Teachers	Charter Schools				
+edpuzzle.html	7	Mountain View	Barcelona	Education						
+edsurge.html	7	San Francisco	Education	K-12 Education	Social News	Email Newsletters				
+edthena.html	5	San Francisco	SaaS	Education	Marketplaces	Video				
+education-technology-syndicate.html	7	VC Firm	San Francisco	Education	K-12 Education					
+educents.html	7	San Francisco	Education	Marketplaces	K-12 Education					
+educreations.html	7	Palo Alto	Education	K-12 Education	All Students	Teachers				
+edufire.html	7	Chandler	Education	Teachers						
+edukart.html	7	India	E-Commerce	Education	Higher Education	Technical Continuing Education				
+edupath.html	7	Berkeley	Mobile	Education	Curated Web	College Recruiting				
+edusoft.html	7	Education								
+elevate-3.html	7	Silicon Valley	San Francisco	Mobile	Education	Educational Games	Brain Health			
+englishcentral.html	7	Arlington	Education	Language Learning	Emerging Markets	Natural Language Processing				
+enki.html	12	London	Mobile	Enterprise Software	Education	Mobile Enterprise				
+entangled-ventures.html	7	San Francisco	Education	Incubators						
+enuma.html	7	Berkeley	Mobile	K-12 Education	Educational Games					
+envoynow.html	7	Los Angeles	Marketplaces	Bridging Online and Offline	Logistics	University Students	500 Startups Batch 13			
+epals.html	7	Herndon	Enterprise Software	Education						
+espark-learning.html	7	Chicago	San Francisco	Mobile	K-12 Education	iPad	500 Startups 2012			
+everfi.html	7	Washington	 DC	Education	Internet					
+evertrue.html	7	Boston	Mobile	SaaS	Education	Universities				
+exolabs.html	7	Seattle	Education	Biotechnology	iOS	iPad				
+expii.html	7	Pittsburgh	K-12 Education	Higher Education	Edutainment	Online Education 				
+feast.html	7	San Francisco	Education	Health and Wellness	Food and Beverages	Cooking	500 Startups Spring 2013			
+fidelis-education.html	7	Palo Alto	SaaS	Education	Training					
+first-growth-venture-network-1.html	7	Incubator	New York City	Education	Venture Capital	Incubators	Networking			
+firsthand.html	7	New York City	SaaS	Education	Recruiting	Edtech				
+flashnotes.html	7	Boston	Education	Marketplaces	E-Commerce Platforms	University Students				
+flat-world-knowledge.html	7	Washington	 DC	SaaS	Education	Education Technology	Textbooks			
+floqq.html	7	San Francisco	E-Commerce	Education	Marketplaces	Peer-to-Peer	500 Startups Spring 2013			
+freetextbooks.html	7	Austin	University Students							
+fresco-capital.html	7	VC Firm	Venture Capital	Earth	Enterprise Software	Health Care	Education	Consumer 		
+front-row-education.html	7	Earth	San Francisco	Education	Analytics					
+fullstack-academy.html	7	New York City	Education							
+futureleague.html	7	San Francisco	Education	K-12 Education	Kids	Parenting	Y Combinator Winter 2014			
+gamesalad.html	7	Austin	Software	K-12 Education	Education Technology	Game				
+gap-year.html	7	San Francisco	Education							
+general-assembly.html	7	New York City	San Francisco	E-Commerce	Education	Startups				
+getbonkers.html	7	Los Angeles	Education	Mobile Games						
+getparachute.html	15	New York City	Marketplaces	Bridging Online and Offline	Logistics	University Students	AngelPad 8			
+gigabryte-formerly-tinkertags.html	7	Palo Alto	Consumer Electronics	K-12 Education	Educational Games	Embedded Hardware and Software				
+ginkgotree.html	7	Detroit	Education	K-12 Education	Publishing	E-Books				
+girls-in-tech-1.html	7	San Francisco	Education	Startups	Nonprofits	High Tech				
+gitbook.html	7	Mountain View	Education	E-Books	Writers	Digital Publishing				
+goalbook.html	7	San Mateo	SaaS	Digital Media	Education	Professional Services				
+gojimo.html	7	London	Mobile	Education	K-12 Education	Edtech				
+gotit.html	7	Silicon Valley	Education	Marketplaces	Knowledge Management	Real Time				
+gradible.html	7	New York City	Education	Personal Finance	Wealth Management	Loans	AngelPad 7			
+greengar.html	7	Mountain View	Mobile	Education	Productivity Software	Collaboration	500 Startups Spring 2013			
+grovo.html	7	New York City	Consumer Internet	Education	Enterprises	Corporate Training				
+growth-story.html	7	Incubator	Seed Fund	Bangalore	Health Care	E-Commerce	Education			
+guidekick.html	7	San Francisco	Mobile	Digital Media	Education	Online Travel	500 Startups Batch 8			
+gummii.html	7	Calgary	Mobile Games	K-12 Education	Educational Games					
+havoc.html	7	VC Firm	San Francisco	Health Care	Education	Marketplaces	Financial Services			
+higher-learning-technologies-1.html	7	Iowa City	Mobile	Education	Startups	Apps				
+higher-one.html	7	New Haven	Education							
+highlighter.html	7	Seattle	Education	Finance						
+hireart.html	7	New York City	Education	Recruiting	Human Resources	Employment				
+hirevue-labs.html	7	VC Firm	Salt Lake City	Health Care	Education	Video	Governments			
+homer-1.html	7	New York City	Education	Apps	Educational Games	Reading Apps				
+hopscotch.html	7	New York City	Mobile Games	K-12 Education	Kids	Mobile Software Tools				
+hullabalu.html	7	New York City	Mobile	Digital Media	Education	Kids				
+hunie.html	7	Mountain View	Education	Design	Communities	Collaborative Consumption	500 Startups Fall 2012			
+hustlecon.html	7	San Francisco	Education	Startups	Events					
+if-you-can.html	0	San Mateo	Education	Kids	Educational Games	Parenting				
+ilos.html	7	Minneapolis	SaaS	Education	Corporate Training	Customer Support Tools				
+imagine-k12.html	7	Incubator	Redwood City	Education	K-12 Education	Edtech				
+inkling.html	7	San Francisco	Education	Software	Publishing	Corporate Training				
+instaedu.html	16	San Francisco	Education	K-12 Education	Peer-to-Peer	Tutoring				
+instinct.html	7	New York City	Education	Music	Music Education					
+instructure.html	7	Salt Lake City	Education	Software	Colleges	High Schools				
+internmatch.html	7	San Francisco	Education	Recruiting	Employment					
+iq-technologies.html	7	Seattle	Social Media	Education	Social Media Platforms	Social Media Monitoring				
+isoccer.html	7	San Francisco	Education	Software	Sports	Social Games				
+italki.html	7	Shanghai	Education	Marketplaces	Curated Web	Language Learning				
+ixi-play-by-wittyworx.html	7	Sunnyvale	Education	Robotics	Kids	Edutainment				
+jamalon.html	7	Dubai	E-Commerce	Education	Publishing	Distribution				
+joinhandshake.html	7	San Francisco	SaaS	University Students	College Recruiting	Higher Education				
+joytunes.html	7	Tel Aviv-yafo	SaaS	Education	Music	Audio				
+jumble.html	7	Dublin	San Antonio	Education	Software	Health Care Information Technology	Data Security			
+junior-explorers.html	7	Brooklyn	Education	Educational Games	Subscription Businesses	Edutainment	LAUNCH 2016 Demo Pit	500 Startups Batch 14		
+junyo.html	7	Palo Alto	Education	Analytics						
+k-street-capital.html	7	Angel Group	Washington	 DC	Health Care	Social Media	Education	Politics		
+kaizena.html	7	Education	K-12 Education	Higher Education						
+kapor-capital.html	7	Seed Fund	Oakland	Education	Financial Services	Health Care Information Technology	Disruptive Models			
+karlin-ventures.html	7	VC Firm	Los Angeles	E-Commerce	SaaS	Education	Financial Services			
+kaymbu.html	7	Cambridge	Mobile	SaaS	Education	B2B				
+keepy.html	7	San Francisco	Mobile	Education	Parenting	Families				
+khan-academy.html	7	Mountain View	Education	Analytics	Educational Games					
+kibin.html	7	San Francisco	SaaS	Education	Marketplaces					
+kidaptive.html	7	Mountain View	Education							
+kidblog.html	7	Minneapolis	Education	K-12 Education	Kids	Families				
+kingmaker.html	7	Los Angeles	Education	Social Commerce	Video	Content				
+kira-talent-1.html	7	Toronto	SaaS	Education	Academic 	College Admissions				
+kitereaders.html	7	Mountain View	Mobile	K-12 Education	Kids	EBooks	500 Startups Spring 2013			
+kiwi-crate.html	7	Mountain View	E-Commerce	K-12 Education	Kids	Subscription Businesses				
+knewton.html	7	New York City	Education	Big Data	Machine Learning	Colleges				
+kno.html	7	Santa Clara	K-12 Education	University Students	E-Books	Textbooks				
+kodable.html	7	Mountain View	Education	K-12 Education						
+koofers.html	7	Washington	 DC	Enterprise Software	Education	University Students	College Recruiting			
+koru.html	7	Seattle	Education	Training						
+learnmetrics.html	7	Chicago	Education	Big Data	Analytics	K-12 Education				
+learnsprout.html	7	San Francisco	Education	Cloud Data Services	Application Platforms	Predictive Analytics				
+learnup.html	7	San Francisco	Education	Marketplaces	Recruiting	Training				
+learnzillion.html	7	Washington	 DC	Education	Technology					
+lemonadeio.html	7	San Francisco	Mobile	Enterprise Software	Education					
+lesson-ly.html	7	Indianapolis	SaaS	Education	Corporate Training					
+lightup.html	7	Palo Alto	Stanford	Education	Kids	Toys	Teaching STEM Concepts	HAXLR8R S2		
+linguatrip.html	7	Mountain View	Saint Petersburg	Education	Online Travel	Language Learning	500 Startups Batch 13			
+lingvist.html	7	London	Tallinn	Education Technology	Language Learning	Disruptive Models				
+littlebits.html	7	New York City	New York	Education	Open Source	Electronics	Rapidly Expanding			
+looksharp.html	14	San Francisco	Education	Recruiting	Social Recruiting	College Recruiting				
+lore-1.html	7	New York City	Education							
+magoosh.html	7	Berkeley	Digital Media	Education	Video					
+make-school-1.html	7	San Francisco	Education							
+marcopolo-learning.html	7	New York City	Mobile	Digital Media	Education	Educational Games				
+masterclass.html	0	San Francisco	Digital Media	Education	Entertainment Industry					
+masteryconnect.html	7	Salt Lake City	Education	Software	High Schools	Skill Assessment				
+mediacore.html	7	Victoria	SaaS	Education	Video	Content				
+meducation.html	7	Birmingham	Health Care	Education	Technology					
+memorang.html	16	San Francisco	Education	Analytics	Educational Games					
+memrise.html	16	London	Educational Games	Education Technology	Language Learning					
+mendeley-1.html	12	London	Education	Big Data	University Students	Deep Information Technology				
+mentormob.html	7	Chicago	Digital Media	Education	Ventures for Good	Crowdsourcing				
+meritful.html	7	Austin	Enterprise Software	Education	Recruiting	College Recruiting				
+mightybell.html	7	Palo Alto	Education	Social Media Platforms	Communities	Professional Networking				
+mindmixer.html	7	Omaha	Enterprise Software	Education	Universities	Government Innovation				
+minerva-project.html	7	San Francisco	Education	Colleges						
+minted.html	7	San Francisco	Education	Design	Crowdsourcing	Art				
+miso-media.html	7	Los Angeles	Mobile	Education	iOS	Musical Instruments				
+modern-guild-1.html	7	New York City	Education	Recruiting	Training	Career Planning				
+monkimun.html	7	San Francisco	Madrid	Mobile Games	K-12 Education	Application Platforms	Educational Games	500 Startups Batch 10		
+motion-math.html	7	San Francisco	Mobile	Education	Games	K-12 Education				
+myedmatch.html	7	Kansas City	Education	Recruiting	K-12 Education	Teachers				
+mystery-science.html	7	San Francisco	Digital Media	Marketplaces	K-12 Education					
+mytonomy.html	7	Washington	 DC	Consumer Internet	Social Media	Education	Reviews and Recommendations			
+nanoracks.html	7	Washington	 DC	Houston	Education	Robotics	Aerospace	Test and Measurement		
+nav-3.html	7	VC Firm	Cambridge	Reston	Mobile	E-Commerce	Digital Media	Education		
+nearpod.html	7	Miami	Education	K-12 Education	Mobile Enterprise	Skill Assessment				
+neverware.html	7	New York City	Education	Startups	Technology	Hardware + Software				
+newschools-venture-fund.html	0	Seed Fund	Palo Alto	Education	K-12 Education					
+newsela.html	7	New York City	K-12 Education	News	Language Learning					
+nextlesson.html	7	San Francisco	Education	K-12 Education						
+nitrous.html	7	Silicon Valley	Enterprise Software	Education	Cloud Computing	PaaS				
+noredink.html	7	San Francisco	Education	K-12 Education						
+notehall-acquired-by-chegg-6-11.html	0	San Francisco	Consumer Internet	E-Commerce	Education	Information Technology				
+novoed.html	7	San Francisco	Education	Social Media Platforms	Technical Continuing Education					
+okpanda.html	7	New York City	Mobile	Education						
+omada-health-1.html	7	San Francisco	Education	Health and Wellness	Personal Health					
+one-month.html	7	New York City	Education	Technology	Y Combinator Summer 2013					
+one-university-network.html	14	Oakland	Nairobi	Mobile	Education	Edtech	Higher Education			
+oneclass.html	14	Toronto	Education	University Students	Universities					
+oneroom.html	12	San Francisco	SaaS	Education	Software	Video				
+open-air-publishing.html	7	New York City	Education	Content	iPad	EBooks				
+opencurriculum.html	7	Mountain View	K-12 Education	Nonprofits						
+opened.html	7	Silicon Valley	Education	K-12 Education	Education Technology					
+opensesame.html	11	Portland	Enterprise Software	Education	Marketplaces	Corporate Training				
+openstudy.html	7	Atlanta	Education	Social Media Platforms	K-12 Education	Tutoring				
+outschool.html	7	San Francisco	K-12 Education							
+padlet.html	7	San Francisco	SaaS	Education	Content Creators					
+panopen.html	7	New York City	Education	Open Source	Colleges					
+panorama-education.html	7	Boston	Education	Analytics	K-12 Education	Surveys				
+pathgather.html	7	New York City	SaaS	Education	B2B	Corporate Training				
+peak-1.html	7	London	Education	Mobile Games	Brain Health					
+peertransfer.html	7	Boston	Health Care	Education	Finance	Payments				
+penpal-schools.html	12	Austin	Education	Social Media Platforms	K-12 Education	Language Learning				
+piazza.html	7	Palo Alto	Education	Software	College Recruiting					
+plastiq.html	7	San Francisco	E-Commerce	Education	Small and Medium Businesses	Payments				
+platzi.html	7	Mountain View	Education	Recruiting	Edutainment	US Hispanic Market				
+playrific.html	7	Boston	Digital Media	Internet of Things	Kids	Edutainment				
+playsay.html	11	San Francisco	Mobile Games	Social Games	Educational Games	Language Learning				
+policygenius.html	7	New York City	Education	Marketplaces	Financial Services	Insurance				
+popexpert.html	7	San Francisco	Education	Marketplaces	Edtech	E Learn				
+primo.html	7	London	Education	Hardware	Education Technology	Toys				
+prosky.html	7	Mountain View	Recruiting	Training	College Recruiting	Hr Tech	500 Startups Batch 11			
+puzzle-piece.html	7	Southern California	Mobile	Education	Hardware	Behavioral Therapy	 Aba Therapy	 Autism	 Psychology	
+quad.html	7	San Francisco	Mobile	Education	Productivity Software	College Recruiting				
+quipper.html	7	London	Digital Media	Education	Android	iPhone				
+quizlet.html	7	San Francisco	Education							
+raise-me.html	7	San Francisco	Education	Marketplaces	Finance	K-12 Education				
+ranku.html	7	Seattle	Education	Marketplaces	College Recruiting	Vertical Search				
+remind.html	7	San Francisco	Mobile	Education	K-12 Education	Kids				
+rentlord.html	0	United Kingdom	Social Commerce	Real Estate	Social Media Platforms	University Students				
+room-choice.html	7	Salt Lake City	University Students	Rental Housing	Property Management					
+rota-dos-concursos.html	7	Mountain View	Brazil	Education	500 Startups 2012					
+rough-draft-ventures-1.html	7	VC Firm	Incubator	Boston	Venture Capital	University Students	Pre Seed			
+sage-hero.html	7	San Antonio	Enterprise Software	Training	Corporate Training					
+sagecrowd-1.html	12	Halifax	Education	Social Media Platforms	Training					
+savvy-7.html	7	San Francisco	Education	Marketplaces	Peer-to-Peer	Micro-Enterprises				
+scholarpro.html	7	New York City	Education	University Students	Personal Finance					
+schoola.html	7	San Francisco	E-Commerce	Education	K-12 Education	Social Fundraising				
+schooladmissions.html	7	New Delhi	Analytics	K-12 Education	Parenting	500 Startups Spring 2013				
+schoolmint.html	7	San Francisco	Mobile	SaaS	Education	Big Data				
+schoolzilla.html	7	Silicon Valley	Enterprise Software	SaaS	Education	Big Data Analytics				
+scorebeyond.html	7	Menlo Park	Mobile	Education	Big Data Analytics	Quantified Self				
+seamless-toy-company.html	7	Boulder	Mobile	Education	Toys	DIY				
+seelio.html	7	Ann Arbor	Education	Networking	College Recruiting					
+shearwater-international.html	7	Boston	Education							
+showbie.html	7	Edmonton	Mobile	Education	K-12 Education	iPad				
+showme.html	7	New York City	Consumer Internet	Mobile	Education	iPad				
+signia-venture-partners.html	7	VC Firm	Menlo Park	Mobile	Education	Mobile Games	Video			
+silverrail-technologies.html	7	London	Technology	Travel	Transportation	Training				
+simpletuition.html	7	Boston	Digital Media	Education	Marketplaces	Price Comparison				
+skilljar.html	7	Seattle	SaaS	Education	B2B	Corporate Training				
+skilloop.html	7	Los Angeles	Education	Marketplaces	Peer-to-Peer	Online Reservations				
+skillshare.html	7	New York City	Education	Marketplaces						
+slader.html	7	New York City	Consumer Internet	Marketplaces	K-12 Education	Communities				
+smackhigh.html	7	Boston	Mobile	Real Time	High School Students	Online Friendship				
+smartup-io.html	7	London	Mobile	Education	Mobile Games					
+snapguide.html	7	San Francisco	Mobile	Education	Guides					
+socratic-1.html	7	New York City	Education							
+socrative.html	14	Cambridge	Mobile	SaaS	Education	K-12 Education				
+sokanu.html	7	Vancouver	Education	Human Resources	Career Management	Career Planning				
+sonardesign.html	7	Austin	Education	Finance Technology	Corporate Training	Creative				
+speakaboos.html	7	New York City	Sunnyvale	Digital Media	Education	Entertainment	Kids			
+springboard.html	7	San Francisco	Bangalore	Education	Training					
+springest.html	7	Amsterdam	Cologne	Education	Advertising	Marketplaces	E Learn			
+startup-institute.html	7	Boston	Education	Startups						
+startupdigest.html	7	Palo Alto	Digital Media	Education	Publishing	Professional Networking				
+stormwind-studios.html	7	Scottsdale	Education							
+storybird.html	7	Toronto	Consumer Internet	Education	Publishing	Teenagers				
+storyjumper.html	14	Palo Alto	Education	K-12 Education	Content	Textbooks				
+storypanda.html	7	Mountain View	Digital Media	Education	Publishing	500 Startups Batch 4				
+straighterline.html	7	Baltimore	Education							
+student-loan-hero.html	7	New York City	Education	Financial Services	Finance	College Campuses				
+studyroom.html	14	Mountain View	Education	University Students	Universities	Techcrunch Battlefield 2014				
+studysoup.html	7	San Francisco	Education	Marketplaces	Social Commerce	Colleges	500 Startups Batch 10			
+swing-education.html	7	San Mateo	K-12 Education							
+switchboard.html	7	Portland	Social Media	Education	Communities					
+swivl.html	7	Silicon Valley	Enterprise Software	Education	Video	Robotics				
+tactilize.html	7	San Francisco	Digital Media	Education	Publishing	Tablets				
+talent-equity-ventures-teqv.html	7	VC Firm	Education	Recruiting	Human Resources	Social Recruiting				
+tales2go.html	7	Washington	 DC	K-12 Education	Parenting					
+teachable.html	7	New York City	Education	E-Commerce Platforms						
+teachstreet.html	12	Seattle	Education	All Students	Teachers	Charter Schools				
+techshop.html	7	Incubator	San Francisco	Education	Startups	Retail	DIY			
+tenmarks-education.html	7	Newton	Education							
+testmax.html	7	Los Angeles	Mobile	Education	Tutoring	Test Prep				
+thread-1.html	7	Austin	Mobile	Social Media	University Students	Photo Sharing				
+three-ring.html	7	Baltimore	Mobile	Education	K-12 Education	Teachers				
+timbuktu-labs.html	7	Mobile	Digital Media	Education	Kids	500 Startups Batch 4				
+tinybop.html	7	New York City	Education	Social Games	iOS	Kids				
+tioki.html	14	San Francisco	Education	Social Media Platforms	K-12 Education	College Recruiting				
+togetherville.html	7	Palo Alto	Education	Kids	Private Social Networking	Families				
+top-hat.html	7	Toronto	Education	Bridging Online and Offline	Teachers	Polling				
+topschool.html	7	Denver	Education							
+trinket.html	7	Durham	Education	K-12 Education	Developer Tools	Programming				
+trueability.html	7	San Antonio	SaaS	Training	Skill Assessment	Certification Test				
+tuition-io.html	11	Los Angeles	Big Data	Financial Services	University Students	Personal Finance				
+tutorspree.html	7	New York City	Education	Marketplaces	Tutoring					
+tutorvista-com.html	7	Bangalore	Education							
+twigtale.html	7	Los Angeles	Marina Del Rey	Education	Publishing	Kids	Parenting			
+tykoon.html	7	New York City	Education	Financial Services	Kids					
+tynker.html	7	Mountain View	Digital Media	Education	K-12 Education	Teaching STEM Concepts				
+ubi-interactive.html	7	Seattle	Education	Human Computer Interaction	Office Space	Digital Signage				
+udacity.html	7	Mountain View	Education							
+udemy.html	7	San Francisco	Dublin	Digital Media	Education	Marketplaces				
+uguru-me.html	7	San Francisco	Education	Marketplaces	University Students	Peer-to-Peer	500 Startups Batch 10			
+unbound-concepts.html	7	Baltimore	Education	K-12 Education	Publishing					
+university-venture-fund.html	7	VC Firm	Salt Lake City	SaaS	Education	Medical Devices	Pharmaceuticals			
+untangle.html	7	San Jose	Small and Medium Businesses	K-12 Education	Nonprofits	Governments				
+uvize.html	7	Boulder	Enterprise Software	Education	Technology	Colleges				
+veduca-1.html	7	Sao Paulo	Education	Video	News	Social News				
+verbalizeit.html	7	New York City	Finance	Developer APIs	Language Learning	Translation				
+verbling.html	7	San Francisco	Education	Marketplaces	Language Learning	Video Chat				
+visitdays.html	7	Boston	Education	College Recruiting	College Admissions					
+vittana.html	7	Seattle	Education	Finance	Ventures for Good	Peer-to-Peer				
+volunteerspot.html	7	Austin	Ventures for Good	K-12 Education	Bridging Online and Offline	Women-Focused				
+voxy.html	7	New York City	Digital Media	Education	Language Learning	E Learn				
+wasabi-ventures.html	7	VC Firm	Incubator	Manchester	SaaS	Digital Media	Education	Publishing		
+wheelhouseio.html	7	New York City	Enterprise Software	Training	Edtech	Corporate Training				
+wikibrains.html	11	Tel Aviv-yafo	University Students	All Students						
+wikihow.html	7	Palo Alto	Social Media	Digital Media	Education	Ventures for Good				
+wonder-workshop.html	7	San Mateo	Mobile	Education	Robotics	Kids				
+wufoo.html	7	Palo Alto	E-Commerce	Education	Small and Medium Businesses	Sales and Marketing				
+yamli.html	15	Cambridge	Search	Language Learning						
+yei-innovation-fund.html	7	Seed Fund	New Haven	Mobile	Health Care	Education	Food and Beverages			
+yogome.html	7	San Francisco	Education	Mobile Games	K-12 Education	Kids	500 Startups Batch 4			
+zaption.html	7	San Francisco	Education	K-12 Education	Training	Higher Education				
+zeal.html	7	San Francisco	Education							
+zoobean.html	7	Washington	 DC	E-Commerce	Education	Kids	Information Services			
+zyante.html	7	Los Gatos	SaaS	Education	Software					
+zzish.html	16	London	Education	Mobile Games	Social Games	Educational Games				
