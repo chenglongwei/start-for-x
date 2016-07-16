@@ -12,7 +12,7 @@ app = Flask(__name__)
 # MySQL configurations
 app.config['MYSQL_DATABASE_HOST'] = 'localhost'
 app.config['MYSQL_DATABASE_USER'] = 'root'
-app.config['MYSQL_DATABASE_PASSWORD'] = ''
+app.config['MYSQL_DATABASE_PASSWORD'] = 'VXdsRfm6xB'
 app.config['MYSQL_DATABASE_DB'] = 'start_for_x'
 
 app.config['UPLOAD_FOLDER'] = DATA_FOLDER
@@ -154,7 +154,10 @@ def get_workplace(name):
             for employee in employees:
                 employee_list.append({'name': employee[0], 'profile': employee[1], 'photo': employee[2]})
 
-            sub_res = {company: employee_list}
+            sub_res = {
+                "name": company,
+                "employees": employee_list
+            }
             res.append(sub_res)
 
         js = json.dumps(res)
