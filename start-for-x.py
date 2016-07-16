@@ -99,16 +99,16 @@ def get_news(name):
 
         res = []
         for company in companies:
-            cursor.execute('''SELECT link FROM startup_news WHERE startup_name = %s''', (company,))
+            cursor.execute('''SELECT link, title FROM startup_news WHERE startup_name = %s''', (company,))
             conn.commit()
-            links = cursor.fetchall()
+            link_titles = cursor.fetchall()
 
             # convert list of tuples to list of strings
-            link_list = []
-            for link in links:
-                link_list.append(link[0])
+            link_title_list = []
+            for link_title in link_titles:
+                link_title_list.append({'title': link_title[1], 'link': link_title[0]})
 
-            sub_res = {company: link_list}
+            sub_res = {company: link_title_list}
             res.append(sub_res)
 
         js = json.dumps(res)
