@@ -72,7 +72,27 @@ def get_news(name):
 
 @app.route('/api/workplace/<name>', methods=['GET'])
 def get_workplace(name):
-    return "OK"
+    if request.method == 'GET':
+        tags = get_company_tags(name)
+        companies = get_workplace_helper(tags)
+
+        conn = mysql.connect()
+        cursor = conn.cursor()
+
+        res = []
+        for company in companies:
+            cursor.execute('''SELECT employee_name, location, work_history FROM employee WHERE startup_name = %s''',
+                           (company,))
+            conn.commit()
+            links = cursor.fetchall()
+            sub_res = {company: links}
+            res.append(sub_res)
+
+        js = json.dumps(res)
+        print js
+        resp = Response(js, status=200, mimetype="application/jsonp")
+        resp.headers.add('Access-Control-Allow-Origin', '*')
+        return resp
 
 
 def get_company_tags(startup_name):

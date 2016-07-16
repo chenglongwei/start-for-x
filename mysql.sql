@@ -17,7 +17,7 @@ CREATE TABLE `start_for_x`.`startup_news` (
 
 CREATE TABLE `start_for_x`.`employee` (
   `id` INT NOT NULL AUTO_INCREMENT,
-  `name` VARCHAR(64) NULL,
+  `employee_name` VARCHAR(64) NULL,
   `location` VARCHAR(256) NULL,
   `work_history` VARCHAR(4096) NULL,
   `startup_name` VARCHAR(45) NULL,
