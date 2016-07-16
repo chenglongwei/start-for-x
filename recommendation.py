@@ -79,6 +79,9 @@ class Recommendation(object):
 
 list1 = ["Crowdsourcing", "B2B", "Atlanta", "Training"]
 list2 = ["Cambridge", "Digital Media", "Education", "Analytics", "Politics"]
+list3 = ["University Students", "Mobile", "Recruting", "Educational Games", "Big Data"]
 print DATA_FOLDER
 print Recommendation().get_recommendations(DATA_FOLDER, list1)
 print Recommendation().get_recommendations(DATA_FOLDER, list2)
+print Recommendation().get_recommendations(DATA_FOLDER, list3)
+
