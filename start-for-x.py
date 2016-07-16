@@ -129,15 +129,23 @@ def get_workplace(name):
 
         res = []
         for company in companies:
-            cursor.execute('''SELECT employee_name, location, work_history FROM employee WHERE startup_name = %s''',
+            cursor.execute('''SELECT founder_name, profile, photo FROM founder WHERE startup_name = %s''',
+                           (company,))
+            conn.commit()
+            founders = cursor.fetchall()
+
+            cursor.execute('''SELECT employee_name, profile, photo FROM employee WHERE startup_name = %s''',
                            (company,))
             conn.commit()
             employees = cursor.fetchall()
 
             # convert data
             employee_list = []
+            for founder in founders:
+                employee_list.append({'name': founder[0], 'profile': founder[1], 'photo': founder[2]})
+
             for employee in employees:
-                employee_list.append({'name': employee[0], 'location': employee[1], 'work_history': employee[2]})
+                employee_list.append({'name': employee[0], 'profile': employee[1], 'photo': employee[2]})
 
             sub_res = {company: employee_list}
             res.append(sub_res)

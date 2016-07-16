@@ -56,7 +56,7 @@ class Recommendation(object):
                     category_list = []
                 v2 = self.get_feature_vector(company_vector, full_list)
                 score = self.get_score(v1, v2)
-                print score
+                #print score
                 company_tuple = (company_name, score)
                 category_list.append(company_tuple)
                 category_dict[company_category] = category_list
