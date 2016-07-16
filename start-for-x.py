@@ -165,14 +165,15 @@ def get_workplace(name):
 
 
 def get_company_tags(startup_name):
-    conn = mysql.connect()
-    cursor = conn.cursor()
-    cursor.execute('''SELECT tag FROM startup_tag WHERE startup_name = %s''', (startup_name,))
-    conn.commit()
-
-    tags = cursor.fetchall()
-
-    return tags
+    return ["University Students", "Mobile", "Recruting", "Educational Games", "Big Data"]
+    # conn = mysql.connect()
+    # cursor = conn.cursor()
+    # cursor.execute('''SELECT tag FROM startup_tag WHERE startup_name = %s''', (startup_name,))
+    # conn.commit()
+    #
+    # tags = cursor.fetchall()
+    #
+    # return tags
 
 
 if __name__ == '__main__':
