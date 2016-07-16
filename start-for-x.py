@@ -95,7 +95,13 @@ def get_news(name):
             cursor.execute('''SELECT link FROM startup_news WHERE startup_name = %s''', (company,))
             conn.commit()
             links = cursor.fetchall()
-            sub_res = {company: links}
+
+            # convert list of tuples to list of strings
+            link_list = []
+            for link in links:
+                link_list.append(link[0])
+
+            sub_res = {company: link_list}
             res.append(sub_res)
 
         js = json.dumps(res)
@@ -120,7 +126,13 @@ def get_workplace(name):
                            (company,))
             conn.commit()
             employees = cursor.fetchall()
-            sub_res = {company: employees}
+
+            # convert data
+            employee_list = []
+            for employee in employees:
+                employee_list.append({'name': employee[0], 'location': employee[1], 'work_history': employee[2]})
+
+            sub_res = {company: employee_list}
             res.append(sub_res)
 
         js = json.dumps(res)
