@@ -23,7 +23,7 @@ for line in data:
     founders = line['founders']
     for founder in founders:
         cursor.execute('''INSERT INTO founder (founder_name, profile, photo, startup_name) VALUES (%s, %s, %s, %s)''',
-                   (startup_name, founder['name'], founder['profile'], founder['photos']))
+                   (founder['name'], founder['profile'], founder['photos'], startup_name))
         conn.commit()
 
 
@@ -33,7 +33,7 @@ for line in data:
     members = line['members']
     for member in members:
         cursor.execute('''INSERT INTO employee (employee_name, profile, photo, startup_name) VALUES (%s, %s, %s, %s)''',
-                   (startup_name, member['name'], founder['profile'], founder['photos']))
+                   (member['name'], member['profile'], member['photos'], startup_name))
         conn.commit()
 
 

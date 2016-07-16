@@ -1,9 +1,9 @@
 121nexus.html	14	Cambridge	Digital Media	Education	Analytics	Politics				
-2u.html	0	Hanover	Education	Software						
+2u.html	28	Hanover	Education	Software						
 4soils.html	14	Stanford	Education	Bridging Online and Offline	Kids	Religion				
 5min-media.html	7	New York	Education	Games	Video					
 abpathfinder-1.html	7	Overland Park	Education	Health Care Information Technology						
-academize.html	14	San Francisco	Education	Video	All Students	AngelPad Spring 2012				
+academize.html	28	University Students	Mobile	Big Data	Educational Games				
 acceptd.html	7	Columbus	Digital Media	Education	College Recruiting	Performing Arts				
 accredible.html	7	London	Mountain View	Education	Advertising	Recruiting	Universities			
 aceable.html	7	Austin	Mobile	Education	Mobile Games	Technical Continuing Education				
@@ -38,7 +38,7 @@ bloc.html	7	San Francisco	Consumer Internet	Education
 bookrenter.html	7	San Mateo	Education	University Students	Content Delivery	Textbooks				
 booktrack.html	7	San Francisco	Education	Technology	Entertainment	Textbooks				
 boundless.html	7	Boston	Education	University Students	Collaboration	Textbooks				
-braingenie.html	5	Boston	Education	K-12 Education						
+braingenie.html	28	Boston	Education	K-12 Education						
 brainrewards.html	7	Philadelphia	Education	Social Games	Games					
 brainscape.html	7	New York City	Mobile	Education	Platforms	Quantified Self				
 branching-minds.html	7	New York City	Marketplaces	Personal Health	K-12 Education	Neuroscience				
@@ -63,7 +63,7 @@ chromatik.html	7	Los Angeles	Mobile	Education	Music	Bridging Online and Offline
 citelighter.html	7	New York City	Education	Big Data Analytics	K-12 Education	Knowledge Management				
 claco.html	7	Palo Alto	Education	K-12 Education	Colleges					
 classdojo.html	7	San Francisco	Education	Kids	Parenting					
-classkick.html	0	Chicago	K-12 Education	Higher Education						
+classkick.html	28	Chicago	K-12 Education	Higher Education						
 classowl.html	7	San Francisco	Mobile	Education	Productivity Software	Consumer 				
 clever.html	7	San Francisco	Education	Big Data	K-12 Education	Application Platforms				
 cloudacademy-1.html	7	San Francisco	Enterprise Software	Education	Cloud Computing	Recruiting	500 Startups Batch 11			
@@ -210,7 +210,7 @@ kira-talent-1.html	7	Toronto	SaaS	Education	Academic 	College Admissions
 kitereaders.html	7	Mountain View	Mobile	K-12 Education	Kids	EBooks	500 Startups Spring 2013			
 kiwi-crate.html	7	Mountain View	E-Commerce	K-12 Education	Kids	Subscription Businesses				
 knewton.html	7	New York City	Education	Big Data	Machine Learning	Colleges				
-kno.html	7	Santa Clara	K-12 Education	University Students	E-Books	Textbooks				
+kno.html	28	Santa Clara	K-12 Education	University Students	E-Books	Textbooks				
 kodable.html	7	Mountain View	Education	K-12 Education						
 koofers.html	7	Washington	 DC	Enterprise Software	Education	University Students	College Recruiting			
 koru.html	7	Seattle	Education	Training						
@@ -235,7 +235,7 @@ mediacore.html	7	Victoria	SaaS	Education	Video	Content
 meducation.html	7	Birmingham	Health Care	Education	Technology					
 memorang.html	16	San Francisco	Education	Analytics	Educational Games					
 memrise.html	16	London	Educational Games	Education Technology	Language Learning					
-mendeley-1.html	12	London	Education	Big Data	University Students	Deep Information Technology				
+mendeley-1.html	28	London	Education	Big Data	University Students	Deep Information Technology				
 mentormob.html	7	Chicago	Digital Media	Education	Ventures for Good	Crowdsourcing				
 meritful.html	7	Austin	Enterprise Software	Education	Recruiting	College Recruiting				
 mightybell.html	7	Palo Alto	Education	Social Media Platforms	Communities	Professional Networking				
@@ -264,13 +264,13 @@ okpanda.html	7	New York City	Mobile	Education
 omada-health-1.html	7	San Francisco	Education	Health and Wellness	Personal Health					
 one-month.html	7	New York City	Education	Technology	Y Combinator Summer 2013					
 one-university-network.html	14	Oakland	Nairobi	Mobile	Education	Edtech	Higher Education			
-oneclass.html	14	Toronto	Education	University Students	Universities					
+oneclass.html	28	Toronto	Education	University Students	Universities					
 oneroom.html	12	San Francisco	SaaS	Education	Software	Video				
 open-air-publishing.html	7	New York City	Education	Content	iPad	EBooks				
 opencurriculum.html	7	Mountain View	K-12 Education	Nonprofits						
 opened.html	7	Silicon Valley	Education	K-12 Education	Education Technology					
 opensesame.html	11	Portland	Enterprise Software	Education	Marketplaces	Corporate Training				
-openstudy.html	7	Atlanta	Education	Social Media Platforms	K-12 Education	Tutoring				
+openstudy.html	28	Atlanta	Education	Social Media Platforms	K-12 Education	Tutoring				
 outschool.html	7	San Francisco	K-12 Education							
 padlet.html	7	San Francisco	SaaS	Education	Content Creators					
 panopen.html	7	New York City	Education	Open Source	Colleges					
@@ -295,8 +295,8 @@ quizlet.html	7	San Francisco	Education
 raise-me.html	7	San Francisco	Education	Marketplaces	Finance	K-12 Education				
 ranku.html	7	Seattle	Education	Marketplaces	College Recruiting	Vertical Search				
 remind.html	7	San Francisco	Mobile	Education	K-12 Education	Kids				
-rentlord.html	0	United Kingdom	Social Commerce	Real Estate	Social Media Platforms	University Students				
-room-choice.html	7	Salt Lake City	University Students	Rental Housing	Property Management					
+rentlord.html	28	United Kingdom	Social Commerce	Real Estate	Social Media Platforms	University Students				
+room-choice.html	28	Salt Lake City	University Students	Rental Housing	Property Management					
 rota-dos-concursos.html	7	Mountain View	Brazil	Education	500 Startups 2012					
 rough-draft-ventures-1.html	7	VC Firm	Incubator	Boston	Venture Capital	University Students	Pre Seed			
 sage-hero.html	7	San Antonio	Enterprise Software	Training	Corporate Training					
@@ -305,7 +305,7 @@ savvy-7.html	7	San Francisco	Education	Marketplaces	Peer-to-Peer	Micro-Enterpris
 scholarpro.html	7	New York City	Education	University Students	Personal Finance					
 schoola.html	7	San Francisco	E-Commerce	Education	K-12 Education	Social Fundraising				
 schooladmissions.html	7	New Delhi	Analytics	K-12 Education	Parenting	500 Startups Spring 2013				
-schoolmint.html	7	San Francisco	Mobile	SaaS	Education	Big Data				
+schoolmint.html	28	San Francisco	Mobile	SaaS	Education	Big Data				
 schoolzilla.html	7	Silicon Valley	Enterprise Software	SaaS	Education	Big Data Analytics				
 scorebeyond.html	7	Menlo Park	Mobile	Education	Big Data Analytics	Quantified Self				
 seamless-toy-company.html	7	Boulder	Mobile	Education	Toys	DIY				
@@ -317,8 +317,8 @@ signia-venture-partners.html	7	VC Firm	Menlo Park	Mobile	Education	Mobile Games	
 silverrail-technologies.html	7	London	Technology	Travel	Transportation	Training				
 simpletuition.html	7	Boston	Digital Media	Education	Marketplaces	Price Comparison				
 skilljar.html	7	Seattle	SaaS	Education	B2B	Corporate Training				
-skilloop.html	7	Los Angeles	Education	Marketplaces	Peer-to-Peer	Online Reservations				
-skillshare.html	7	New York City	Education	Marketplaces						
+skilloop.html	28	Los Angeles	Education	Marketplaces	Peer-to-Peer	Online Reservations				
+skillshare.html	28	New York City	Education	Marketplaces						
 slader.html	7	New York City	Consumer Internet	Marketplaces	K-12 Education	Communities				
 smackhigh.html	7	Boston	Mobile	Real Time	High School Students	Online Friendship				
 smartup-io.html	7	London	Mobile	Education	Mobile Games					
@@ -338,7 +338,7 @@ storyjumper.html	14	Palo Alto	Education	K-12 Education	Content	Textbooks
 storypanda.html	7	Mountain View	Digital Media	Education	Publishing	500 Startups Batch 4				
 straighterline.html	7	Baltimore	Education							
 student-loan-hero.html	7	New York City	Education	Financial Services	Finance	College Campuses				
-studyroom.html	14	Mountain View	Education	University Students	Universities	Techcrunch Battlefield 2014				
+studyroom.html	28	Mountain View	Education	University Students	Universities	Techcrunch Battlefield 2014				
 studysoup.html	7	San Francisco	Education	Marketplaces	Social Commerce	Colleges	500 Startups Batch 10			
 swing-education.html	7	San Mateo	K-12 Education							
 switchboard.html	7	Portland	Social Media	Education	Communities					
@@ -355,12 +355,12 @@ thread-1.html	7	Austin	Mobile	Social Media	University Students	Photo Sharing
 three-ring.html	7	Baltimore	Mobile	Education	K-12 Education	Teachers				
 timbuktu-labs.html	7	Mobile	Digital Media	Education	Kids	500 Startups Batch 4				
 tinybop.html	7	New York City	Education	Social Games	iOS	Kids				
-tioki.html	14	San Francisco	Education	Social Media Platforms	K-12 Education	College Recruiting				
+tioki.html	28	San Francisco	Education	Social Media Platforms	K-12 Education	College Recruiting				
 togetherville.html	7	Palo Alto	Education	Kids	Private Social Networking	Families				
 top-hat.html	7	Toronto	Education	Bridging Online and Offline	Teachers	Polling				
 topschool.html	7	Denver	Education							
 trinket.html	7	Durham	Education	K-12 Education	Developer Tools	Programming				
-trueability.html	7	San Antonio	SaaS	Training	Skill Assessment	Certification Test				
+trueability.html	28	San Antonio	SaaS	Training	Skill Assessment	Certification Test				
 tuition-io.html	11	Los Angeles	Big Data	Financial Services	University Students	Personal Finance				
 tutorspree.html	7	New York City	Education	Marketplaces	Tutoring					
 tutorvista-com.html	7	Bangalore	Education							
@@ -384,7 +384,7 @@ volunteerspot.html	7	Austin	Ventures for Good	K-12 Education	Bridging Online and
 voxy.html	7	New York City	Digital Media	Education	Language Learning	E Learn				
 wasabi-ventures.html	7	VC Firm	Incubator	Manchester	SaaS	Digital Media	Education	Publishing		
 wheelhouseio.html	7	New York City	Enterprise Software	Training	Edtech	Corporate Training				
-wikibrains.html	11	Tel Aviv-yafo	University Students	All Students						
+wikibrains.html	28	Tel Aviv-yafo	University Students	All Students						
 wikihow.html	7	Palo Alto	Social Media	Digital Media	Education	Ventures for Good				
 wonder-workshop.html	7	San Mateo	Mobile	Education	Robotics	Kids				
 wufoo.html	7	Palo Alto	E-Commerce	Education	Small and Medium Businesses	Sales and Marketing				

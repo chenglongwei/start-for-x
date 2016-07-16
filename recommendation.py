@@ -56,7 +56,7 @@ class Recommendation(object):
                     category_list = []
                 v2 = self.get_feature_vector(company_vector, full_list)
                 score = self.get_score(v1, v2)
-                print score
+                #print score
                 company_tuple = (company_name, score)
                 category_list.append(company_tuple)
                 category_dict[company_category] = category_list
@@ -79,6 +79,9 @@ class Recommendation(object):
 
 list1 = ["Crowdsourcing", "B2B", "Atlanta", "Training"]
 list2 = ["Cambridge", "Digital Media", "Education", "Analytics", "Politics"]
+list3 = ["University Students", "Mobile", "Recruting", "Educational Games", "Big Data"]
 print DATA_FOLDER
 print Recommendation().get_recommendations(DATA_FOLDER, list1)
 print Recommendation().get_recommendations(DATA_FOLDER, list2)
+print Recommendation().get_recommendations(DATA_FOLDER, list3)
+
