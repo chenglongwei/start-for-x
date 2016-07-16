@@ -33,7 +33,7 @@ CREATE TABLE `start_for_x`.`startup_evaluation` (
 
 CREATE TABLE `start_for_x`.`startup_funding` (
   `id` INT NOT NULL AUTO_INCREMENT,
-  `date` DATETIME NULL,
+  `funding_date` DATETIME NULL,
   `event` VARCHAR(45) NULL,
   `amount_raised` VARCHAR(45) NULL,
   `investors` VARCHAR(2048) NULL,

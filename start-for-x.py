@@ -42,15 +42,50 @@ def create_startup():
 
 @app.route('/api/finances/<name>', methods=['GET'])
 def get_finances(name):
-    print name
-    return "OK"
+    if request.method == 'GET':
+        tags = get_company_tags(name)
+        companies = get_finances_helper(tags)
+
+        conn = mysql.connect()
+        cursor = conn.cursor()
+
+        res = []
+        for company in companies:
+            # Get evaluation
+            cursor.execute('''SELECT current_valuation FROM startup_evaluation WHERE startup_name = %s''', (company,))
+            conn.commit()
+            # evaluations is a tuple of tuple
+            evaluations = cursor.fetchall()
+            evaluation = ""
+            if evaluations is not None and len(evaluations) != 0:
+                evaluation = evaluations[0][0]
+
+            # Get fundings
+            cursor.execute('''SELECT funding_date, event, amount_raised, investors FROM startup_funding
+                              WHERE startup_name = %s''', (company,))
+            conn.commit()
+            fundings = cursor.fetchall()
+            # Parse fundings data
+            funding_list = []
+            for funding in fundings:
+                funding_list.append({'funding_date': funding[0], 'event': funding[1], 'amount_raised': funding[2],
+                                     'investors': funding[3].split(',')})
+
+            sub_res = {company: funding_list, 'current_valuation': evaluation}
+            res.append(sub_res)
+
+        js = json.dumps(res)
+        print js
+        resp = Response(js, status=200, mimetype="application/jsonp")
+        resp.headers.add('Access-Control-Allow-Origin', '*')
+        return resp
 
 
 @app.route('/api/news/<name>', methods=['GET'])
 def get_news(name):
     if request.method == 'GET':
         tags = get_company_tags(name)
-        companies = get_finances_helper(tags)
+        companies = get_news_helper(tags)
 
         conn = mysql.connect()
         cursor = conn.cursor()
@@ -84,8 +119,8 @@ def get_workplace(name):
             cursor.execute('''SELECT employee_name, location, work_history FROM employee WHERE startup_name = %s''',
                            (company,))
             conn.commit()
-            links = cursor.fetchall()
-            sub_res = {company: links}
+            employees = cursor.fetchall()
+            sub_res = {company: employees}
             res.append(sub_res)
 
         js = json.dumps(res)
