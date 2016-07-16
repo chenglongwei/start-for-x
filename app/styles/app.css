@@ -1,0 +1,28 @@
+.navbar { 
+	background-color: #C92228 !important;
+}
+
+.navbar-brand { 
+	color: white !important;
+}
+
+.brand-color { 
+	color: #C92228 !important;
+}
+
+.white { 
+	color: white;
+}
+
+.navbar-top-links>li>a:focus, .navbar-top-links>li>a:hover { 
+	background-color: #7e0b0f !important;
+}
+
+a:focus, a:hover {
+    color: white;
+}
+
+.navbar-top-links .dropdown-messages, .navbar-top-links .dropdown-tasks, .navbar-top-links .dropdown-alerts {
+    width: 150px !important; 
+    min-width: 0;
+}

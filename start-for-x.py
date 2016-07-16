@@ -78,7 +78,11 @@ def get_finances(name):
                 funding_list.append({'funding_date': funding[0], 'event': funding[1], 'amount_raised': funding[2],
                                      'investors': funding[3].split(',')})
 
-            sub_res = {company: funding_list, 'current_valuation': evaluation}
+            sub_res = {
+                'name': company, 
+                "funding": funding_list, 
+                'current_valuation': evaluation
+            }
             res.append(sub_res)
 
         js = json.dumps(res)
@@ -108,7 +112,10 @@ def get_news(name):
             for link in links:
                 link_list.append(link[0])
 
-            sub_res = {company: link_list}
+            sub_res = {
+                "name": company, 
+                "news": link_list
+            }
             res.append(sub_res)
 
         js = json.dumps(res)

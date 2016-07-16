@@ -1,0 +1,3 @@
+{{#each finances in as |financeEntry|}} 
+	{{bar-chart-panel barChartTitle=financeEntry.name funding=financeEntry.funding valuation=financeEntry.valuation}}
+{{/each}}

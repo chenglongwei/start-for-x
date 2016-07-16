@@ -1,0 +1,15 @@
+<div class="chat-panel panel panel-default">
+    <div class="panel-heading">
+        <i class="fa fa-comments fa-fw"></i>
+        {{companyName}}
+    </div>
+    <!-- /.panel-heading -->
+    <div class="panel-body">
+        <ul class="chat">
+            {{#each urlList as |urlEntry|}}
+                {{news-article name=companyName url=urlEntry}}
+            {{/each}}
+        </ul>
+    </div>
+    <!-- /.panel-footer -->
+</div>
