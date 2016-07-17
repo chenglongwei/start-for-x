@@ -3,32 +3,19 @@
 				{{workplace-employee-title}}
 		</div>
 		<div class="panel-body">
-				<div class="col-md-4">
-						<div class="panel panel-default">
-								<div class="panel-heading">
-										Employee 1
-								</div>
-								<div class="panel-body">
-								</div>
-						</div>
-				</div>
-				<div class="col-md-4">
-						<div class="panel panel-default">
-								<div class="panel-heading">
-										Employee 1
-								</div>
-								<div class="panel-body">
-								</div>
-						</div>
-				</div>
-				<div class="col-md-4">
-						<div class="panel panel-default">
-								<div class="panel-heading">
-										Employee 1
-								</div>
-								<div class="panel-body">
-								</div>
-						</div>
-				</div>
+				{{#each employees as |employee|}}
+					<div class="col-md-4">
+							<div class="panel panel-default">
+									<div class="panel-heading">
+											{{employee.name}}
+									</div>
+									<div class="panel-body text-center">
+										<img src="{{employee.photo}}">
+										<a>{{employee.profile}}</a>
+									</div>
+							</div>
+					</div>
+				{{/each}}
+				
 		</div>
 </div>

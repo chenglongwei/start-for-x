@@ -1,0 +1,5 @@
+{{#each workplace as |workplaceEntry|}}
+	{{#if (gt workplaceEntry.employees.length 0)}} 
+		{{employee-panel workplace-employee-title=workplaceEntry.name employees=workplaceEntry.employees}}
+	{{/if}}
+{{/each}}

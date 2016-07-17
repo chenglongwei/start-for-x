@@ -5,7 +5,7 @@ export default Ember.Route.extend({
   model() {
     var redux = this.get('redux');
     var startup = redux.getState().startups.current;
-		var query = Ember.$.ajax({url: 'http://localhost:9000/api/news/' + startup, type: 'GET'})
+		var query = Ember.$.ajax({url: 'http://localhost:9000/api/news/' + "xxx", type: 'GET'})
 			.then(function(response) {
 				redux.dispatch({type: 'GET_NEWS', data: JSON.parse(response)})
 			});

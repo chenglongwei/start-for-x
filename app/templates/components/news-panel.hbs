@@ -7,7 +7,7 @@
     <div class="panel-body">
         <ul class="chat">
             {{#each urlList as |urlEntry|}}
-                {{news-article name=companyName url=urlEntry}}
+                {{news-article name=urlEntry.title url=urlEntry.link}}
             {{/each}}
         </ul>
     </div>
